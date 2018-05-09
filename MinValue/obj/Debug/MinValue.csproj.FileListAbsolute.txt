@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\bin\Debug\MinValue.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\bin\Debug\MinValue.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\bin\Debug\MinValue.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\obj\Debug\MinValue.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\obj\Debug\MinValue.frmMinValue.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\obj\Debug\MinValue.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\obj\Debug\MinValue.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\obj\Debug\MinValue.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\MinValue\MinValue\obj\Debug\MinValue.pdb
